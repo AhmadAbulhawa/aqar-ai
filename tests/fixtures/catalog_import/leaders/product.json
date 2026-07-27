@@ -1,0 +1,14 @@
+{
+  "id": 412436,
+  "name": "Hisense 65-inch QLED TV",
+  "permalink": "https://leaders.jo/en/product/hisense-65-inch-qled-tv/?srsltid=tracking",
+  "sku": "0193554610",
+  "short_description": "<ul><li>Brand: Hisense</li><li>Model: 65Q71Q</li><li>Size: 65 inches</li><li>Width: 145 cm</li><li>Depth: 8 cm</li><li>Height: 83 cm</li></ul>",
+  "description": "<p>Official QLED television.</p>",
+  "prices": {"price":"59900","regular_price":"69900","sale_price":"59900","currency_code":"JOD","currency_minor_unit":2},
+  "images": [{"src":"https://leaders.jo/fixture/hisense.jpg","name":"هايسنس شاشة تلفزيون 65 انش","alt":"Hisense 65-inch QLED TV"}],
+  "categories": [{"name":"TV screens","slug":"tv-screens"}],
+  "brands": [{"name":"HISENSE","slug":"hisense"}],
+  "is_purchasable": true,
+  "is_in_stock": true
+}

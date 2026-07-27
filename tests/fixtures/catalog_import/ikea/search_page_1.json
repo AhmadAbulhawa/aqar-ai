@@ -1,0 +1,21 @@
+{
+  "results": [{
+    "component": "PRIMARY_AREA",
+    "metadata": {"start": 0, "end": 1, "max": 2},
+    "items": [{"product": {
+      "name": "ZEBRASÄV",
+      "typeName": "مصباح معلّق",
+      "mainImageUrl": "https://www.ikea.com/fixture/zebrasaev.jpg",
+      "pipUrl": "https://www.ikea.com/jo/ar/p/zebrasaev-pendant-lamp-white-plastic-10522481/?utm_source=test",
+      "id": "10522481",
+      "itemNo": "10522481",
+      "onlineSellable": true,
+      "availability": [{"type2": "HOME_DELIVERY", "status": "HIGH_IN_STOCK"}],
+      "salesPrice": {"currencyCode": "JOD", "numeral": 4.99, "regularPrice": {"numeral": 6.99}},
+      "colors": [{"name": "أبيض"}],
+      "categoryPath": [{"name": "المعلّقة", "key": "18751"}],
+      "businessStructure": {"productAreaName": "Pendant lamps"},
+      "allProductImage": [{"type": "MAIN_PRODUCT_IMAGE", "url": "https://www.ikea.com/fixture/zebrasaev.jpg"}]
+    }}]
+  }]
+}

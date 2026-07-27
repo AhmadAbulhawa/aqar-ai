@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+backups/
+*.log
+uploads/rooms/
+uploads/generated_designs/
+var/
+imports/reports/

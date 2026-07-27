@@ -1,0 +1,18 @@
+{
+  "results": [{
+    "component": "PRIMARY_AREA",
+    "metadata": {"start": 1, "end": 2, "max": 2},
+    "items": [{"product": {
+      "name": "SKURUP",
+      "typeName": "إضاءة موضعية للسقف",
+      "mainImageUrl": "https://www.ikea.com/fixture/skurup.jpg",
+      "pipUrl": "https://www.ikea.com/jo/ar/p/skurup-ceiling-track-black-10395925/",
+      "id": "10395925",
+      "itemNo": "10395925",
+      "onlineSellable": false,
+      "availability": [{"type2": "HOME_DELIVERY", "status": "OUT_OF_STOCK"}],
+      "salesPrice": {"currencyCode": "JOD", "numeral": 24.99},
+      "categoryPath": [{"name": "إضاءات موضعية للسقف", "key": "18753"}]
+    }}]
+  }]
+}
