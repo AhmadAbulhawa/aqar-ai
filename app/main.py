@@ -2,7 +2,7 @@ import os
 import mimetypes
 from pathlib import Path
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
@@ -61,3 +61,18 @@ def home():
     return {
         "message": "Aqar AI Backend is running"
     }
+
+
+@app.head("/")
+def home_head():
+    return Response(status_code=200)
+
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+
+@app.head("/health")
+def health_head():
+    return Response(status_code=200)
